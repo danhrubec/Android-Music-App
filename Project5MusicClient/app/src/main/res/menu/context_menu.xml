@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/cmVid"
+        android:title="Video Link" />
+    <item
+        android:id="@+id/cmSongWiki"
+        android:title="Song Info" />
+    <item
+        android:id="@+id/cmArtistWiki"
+        android:title="Artist Info" />
+</menu>
